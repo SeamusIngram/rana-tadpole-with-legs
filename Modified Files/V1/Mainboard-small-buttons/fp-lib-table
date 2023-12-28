@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/Seamus/Documents/GCC/B0XX/rana-tadpole-with-legs/Modified Files/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
-  (lib (name "RaspberryPi_Pico")(type "Eagle")(uri "C:/Users/Seamus/Documents/GCC/B0XX/rana-tadpole-with-legs/Modified Files/RP-Pico Libraries/RaspberryPi_Pico.lbr")(options "")(descr ""))
-)
